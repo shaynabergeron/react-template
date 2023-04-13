@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Typescript React Template
+This is a react-typescript template with prettier and eslint rules that will be used across all projects.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
